@@ -18,3 +18,4 @@
 
 9、[数组去重的几种方法](https://github.com/goldprog/blog/issues/7)
 
+10、 [理解函数柯里化](https://github.com/goldprog/blog/issues/10)
