@@ -21,3 +21,5 @@
 10、[理解函数柯里化](https://github.com/goldprog/blog/issues/10)
 
 11、[javascript函数式编程](https://github.com/goldprog/blog/issues/11)
+
+12、[你知道vue-router中间件管道吗](https://github.com/goldprog/blog/issues/12)
