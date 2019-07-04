@@ -25,3 +25,5 @@
 12、[你知道vue-router中间件管道吗](https://github.com/goldprog/blog/issues/12)
 
 13、[你应该知道的webpack打包原理](https://github.com/goldprog/blog/issues/13)
+
+14、[一步步教你实现vuex](https://github.com/goldprog/blog/issues/14)
