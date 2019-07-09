@@ -27,3 +27,5 @@
 13、[你应该知道的webpack打包原理](https://github.com/goldprog/blog/issues/13)
 
 14、[一步步教你实现vuex](https://github.com/goldprog/blog/issues/14)
+
+15、[如何写一个js类库](https://github.com/goldprog/blog/issues/15)
