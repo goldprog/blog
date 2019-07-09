@@ -31,3 +31,5 @@
 15、[如何写一个js类库](https://github.com/goldprog/blog/issues/15)
 
 16、[underscore核心代码解析](https://github.com/goldprog/blog/issues/16)
+
+17、[underscore是怎么实现链式调用的](https://github.com/goldprog/blog/issues/17)
