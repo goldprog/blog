@@ -29,3 +29,5 @@
 14、[一步步教你实现vuex](https://github.com/goldprog/blog/issues/14)
 
 15、[如何写一个js类库](https://github.com/goldprog/blog/issues/15)
+
+16、[underscore核心代码解析](https://github.com/goldprog/blog/issues/16)
