@@ -33,3 +33,5 @@
 16、[underscore核心代码解析](https://github.com/goldprog/blog/issues/16)
 
 17、[underscore是怎么实现链式调用的](https://github.com/goldprog/blog/issues/17)
+
+18、[原生js手写数组的几种10中api](https://github.com/goldprog/blog/issues/18)
